@@ -1,6 +1,6 @@
 # production-ready-webapp-boilerplate
 
-[![CircleCI](https://circleci.com/gh/haoict/production-ready-webapp-boilerplate/tree/master.svg?style=svg)](https://circleci.com/gh/haoict/production-ready-webapp-boilerplate/tree/master)
+[![CircleCI](https://circleci.com/gh/haoict/production-ready-webapp-boilerplate/tree/master.svg?style=svg)](https://circleci.com/gh/haoict/production-ready-webapp-boilerplate/tree/mastergirish)
 [![CodeFactor](https://www.codefactor.io/repository/github/haoict/production-ready-webapp-boilerplate/badge)](https://www.codefactor.io/repository/github/haoict/production-ready-webapp-boilerplate)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/haoict/production-ready-webapp-boilerplate/blob/master/LICENSE)
